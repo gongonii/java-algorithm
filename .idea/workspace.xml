@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb39a235-a045-412a-a0d0-743dd94df24e" name="변경" comment="" />
+    <list default="true" id="bb39a235-a045-412a-a0d0-743dd94df24e" name="변경" comment="10699 현재날짜">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +16,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -20,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;gongonii&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/gongonii/backjoon-java.git&quot;,
+    &quot;accountId&quot;: &quot;f02491ee-a943-490d-aea2-80a97e05edc2&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -31,6 +47,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.B10699.executor&quot;: &quot;Run&quot;,
     &quot;Application.B2557.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
@@ -46,7 +63,14 @@
     &quot;애플리케이션.Main.executor&quot;: &quot;Run&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.B2557">
+  <component name="RunManager" selected="Application.B10699">
+    <configuration name="B10699" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B10699" />
+      <module name="backjoon-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="B2557" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="B2557" />
       <module name="backjoon-java" />
@@ -63,6 +87,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.B10699" />
         <item itemvalue="Application.B2557" />
       </list>
     </recent_temporary>
@@ -86,8 +111,34 @@
       <workItem from="1712383510389" duration="100000" />
       <workItem from="1712383693998" duration="735000" />
       <workItem from="1712386775386" duration="1358000" />
-      <workItem from="1712461768437" duration="329000" />
+      <workItem from="1712461768437" duration="2848000" />
+      <workItem from="1712478393748" duration="900000" />
     </task>
+    <task id="LOCAL-00001" summary="B10699 현재날짜">
+      <option name="closed" value="true" />
+      <created>1712464115084</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712464115084</updated>
+    </task>
+    <task id="LOCAL-00002" summary="B10699 현재날짜">
+      <option name="closed" value="true" />
+      <created>1712464760415</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712464760415</updated>
+    </task>
+    <task id="LOCAL-00003" summary="B10699 현재날짜">
+      <option name="closed" value="true" />
+      <created>1712464783256</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712464783256</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,5 +154,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="B10699 현재날짜" />
+    <option name="LAST_COMMIT_MESSAGE" value="B10699 현재날짜" />
   </component>
 </project>
