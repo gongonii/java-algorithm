@@ -1,2 +1,1 @@
-# backjoon-java
-# backjoon-java
+# baekjoon-java
