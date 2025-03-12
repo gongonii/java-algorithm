@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb39a235-a045-412a-a0d0-743dd94df24e" name="변경" comment="10171_고양이">
-      <change afterPath="$PROJECT_DIR$/src/B1000.java" afterDir="false" />
+    <list default="true" id="bb39a235-a045-412a-a0d0-743dd94df24e" name="변경" comment="2720_세탁소 사장 동혁">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B1000.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,33 +40,38 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2eiIcuVzGDWjJk7PCqczOwzPCN7" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.B10699.executor": "Run",
-    "Application.B2557.executor": "Run",
-    "Application.B7287.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/kimgoeun/Desktop/backjoon-java",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true",
-    "애플리케이션.B10171.executor": "Run",
-    "애플리케이션.B2557.executor": "Run",
-    "애플리케이션.Main.executor": "Run"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.B10699.executor&quot;: &quot;Run&quot;,
+    &quot;Application.B2557.executor&quot;: &quot;Run&quot;,
+    &quot;Application.B7287.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/kimgoeun/Desktop/baekjoon-java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;애플리케이션.B1000.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.B10171.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.B14487.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.B2557.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.B2720.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Main.executor&quot;: &quot;Run&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="애플리케이션.B10171">
+}</component>
+  <component name="RunManager" selected="애플리케이션.B2720">
     <configuration name="B10171" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="B10171" />
       <module name="backjoon-java" />
@@ -81,15 +86,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B2557" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="B2557" />
+    <configuration name="B14487" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B14487" />
       <module name="backjoon-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B7287" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="B7287" />
+    <configuration name="B2720" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B2720" />
       <module name="backjoon-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -104,6 +109,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.B2720" />
+        <item itemvalue="애플리케이션.B14487" />
         <item itemvalue="애플리케이션.B10171" />
       </list>
     </recent_temporary>
@@ -131,7 +138,11 @@
       <workItem from="1712478393748" duration="1703000" />
       <workItem from="1712540215928" duration="2364000" />
       <workItem from="1718869689192" duration="311000" />
-      <workItem from="1718870006018" duration="734000" />
+      <workItem from="1718870006018" duration="6882000" />
+      <workItem from="1719915847527" duration="2143000" />
+      <workItem from="1728555140259" duration="1215000" />
+      <workItem from="1741701514828" duration="1000" />
+      <workItem from="1741701532401" duration="4808000" />
     </task>
     <task id="LOCAL-00001" summary="B10699 현재날짜">
       <option name="closed" value="true" />
@@ -173,7 +184,23 @@
       <option name="project" value="LOCAL" />
       <updated>1718870403539</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="14487_욱제는 효도쟁이야!!">
+      <option name="closed" value="true" />
+      <created>1718874134230</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1718874134230</updated>
+    </task>
+    <task id="LOCAL-00007" summary="2720_세탁소 사장 동혁">
+      <option name="closed" value="true" />
+      <created>1719917385218</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1719917385218</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,7 +221,9 @@
     <MESSAGE value="B10699 현재날짜" />
     <MESSAGE value="7287_등록" />
     <MESSAGE value="10171_고양이" />
-    <option name="LAST_COMMIT_MESSAGE" value="10171_고양이" />
+    <MESSAGE value="14487_욱제는 효도쟁이야!!" />
+    <MESSAGE value="2720_세탁소 사장 동혁" />
+    <option name="LAST_COMMIT_MESSAGE" value="2720_세탁소 사장 동혁" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
