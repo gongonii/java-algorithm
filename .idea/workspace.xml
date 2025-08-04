@@ -66,6 +66,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
     &quot;애플리케이션.B1000.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.B1001.executor&quot;: &quot;Run&quot;,
     &quot;애플리케이션.B10171.executor&quot;: &quot;Run&quot;,
     &quot;애플리케이션.B14487.executor&quot;: &quot;Run&quot;,
     &quot;애플리케이션.B2557.executor&quot;: &quot;Run&quot;,
@@ -154,7 +155,8 @@
       <workItem from="1746106151923" duration="9000" />
       <workItem from="1746262097273" duration="1435000" />
       <workItem from="1746591759738" duration="383000" />
-      <workItem from="1754280821890" duration="926000" />
+      <workItem from="1754280821890" duration="1858000" />
+      <workItem from="1754284019289" duration="2160000" />
     </task>
     <task id="LOCAL-00001" summary="B10699 현재날짜">
       <option name="closed" value="true" />
